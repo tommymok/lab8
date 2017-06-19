@@ -1,0 +1,14 @@
+Question 1:
+the program must be giving condition ,like 
+try 
+{
+	if(good grade)
+	throw;
+	cout << "i love C++" << endl
+}
+also you need the catch statement to do what you want to do if the condtition is true.
+
+Question 2:
+yes,it will show out,because it is outside the catch exception,so after finishing the exception ,the program will go to the next code and it will print it out.
+
+using cmd to type make and it will process
